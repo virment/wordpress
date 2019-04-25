@@ -1,2 +1,2 @@
 # wordpress
-wordpress snippet
+このリポジトリは、WordPressに関するコードをメモするためのものです。
